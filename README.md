@@ -1,6 +1,4 @@
 # YTDownloader v.2 prototype.
-
-# YT v2 methods/function summary
 <img src="https://media.discordapp.net/attachments/910816357917028392/1046031507749343262/image.png"/>
 YTDownloader is a GUI-based program for downloading Youtube Videos/Audio by using the Pytube library as the main functionality for the methods and tkinter for the UI.
 <br>
