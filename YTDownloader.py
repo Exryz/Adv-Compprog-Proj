@@ -19,7 +19,7 @@ class YTDownloader(Tk):
         # self.geometry("651x424")
         # ui size
 
-        self.geometry("500x150")
+        self.geometry("400x150")
         self.grid_columnconfigure(0, weight=1)
         self.grid_columnconfigure(1, weight=1)
 
