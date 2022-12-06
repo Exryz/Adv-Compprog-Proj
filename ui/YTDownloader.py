@@ -14,7 +14,7 @@ class YTDownloader(Tk):
     def __init__(self, *args, **kwargs):
         Tk.__init__(self, *args, **kwargs)
 
-        # Configuring the window and grid (final desing)
+        # Configuring the window and grid (final design)
         # self.geometry("651x424")
         # ui size
 
