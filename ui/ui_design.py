@@ -1,4 +1,3 @@
-# Importing the packages
 import tkinter as tk
 
 from tkinter import ttk
