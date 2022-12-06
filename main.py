@@ -1,5 +1,5 @@
 #Driver code
-from YTDownloader import YTDownloader
+from ui.YTDownloader import YTDownloader
 
 if __name__ == "__main__":
     
