@@ -19,4 +19,5 @@ YTDownloader is a GUI-based program for downloading Youtube Videos/Audio by usin
 - PyTube
 - ffmpeg-python
 - tkinter
+- MoviePy
 - You can also install these with `pip install -r requirements.txt`
