@@ -10,7 +10,7 @@ YTDownloader is a GUI-based program for downloading Youtube Videos/Audio by usin
 - Finally press download button and the program will start to download the video.
 
 ## In this version
-- We used Pytube instead of MoviePy because we counld't find a direct way to convert a youtube link to an .mp3 file.
+- We used Pytube and Moviepy for format conversion mp4>mp3.
 - The downloaded file will be located in the program's current directory. 
 - YTDownloader can now download videos in 1080p or audio only.
 
