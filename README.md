@@ -24,3 +24,7 @@ YTDownloader is a GUI-based program for downloading Youtube Videos/Audio by usin
 
 ## Video Presentation
 [![Watch the video](https://media.discordapp.net/attachments/1044928036287549512/1050435080750903346/image.png?width=1204&height=671)](https://youtu.be/oNzyH0M7cBg)
+
+
+## Self-Assessment
+<img src="https://cdn.discordapp.com/attachments/324353311589531649/1051393733372948560/312926590_3205237626408154_2680533307621148460_n.png"/>
